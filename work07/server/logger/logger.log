@@ -1,0 +1,75 @@
+2024-04-26T20:30:28.464+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1___8080
+2024-04-26T20:31:23.618+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1___8080
+2024-04-26T20:31:39.298+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-26T20:38:35.045+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-26T20:55:38.412+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-26T21:58:06.714+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-26T23:01:20.362+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-28T14:22:13.215+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-28T16:24:53.837+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-28T17:22:39.579+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-29T10:41:18.382+0800	WARN	initialize/initialize.go:105	服务已注册
+zg5/work/work07/server/initialize.Consul
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:105
+zg5/work/work07/server/initialize.InitGrpc
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:123
+main.main
+	D:/GO/src/zg5/work/work07/server/main.go:6
+runtime.main
+	D:/goroot/src/runtime/proc.go:267
+2024-04-29T10:41:18.425+0800	INFO	initialize/initialize.go:128	已启动Grpc服务正在监听中...127.0.0.1:8080
+2024-04-29T14:21:52.076+0800	WARN	initialize/initialize.go:105	服务已注册
+zg5/work/work07/server/initialize.Consul
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:105
+zg5/work/work07/server/initialize.InitGrpc
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:123
+main.main
+	D:/GO/src/zg5/work/work07/server/main.go:6
+runtime.main
+	D:/goroot/src/runtime/proc.go:267
+2024-04-29T14:21:52.143+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-04-29T14:22:07.491+0800	WARN	initialize/initialize.go:105	服务已注册
+zg5/work/work07/server/initialize.Consul
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:105
+zg5/work/work07/server/initialize.InitGrpc
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:123
+main.main
+	D:/GO/src/zg5/work/work07/server/main.go:6
+runtime.main
+	D:/goroot/src/runtime/proc.go:267
+2024-04-29T14:22:07.507+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-04-29T14:22:14.838+0800	WARN	initialize/initialize.go:105	服务已注册
+zg5/work/work07/server/initialize.Consul
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:105
+zg5/work/work07/server/initialize.InitGrpc
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:123
+main.main
+	D:/GO/src/zg5/work/work07/server/main.go:6
+runtime.main
+	D:/goroot/src/runtime/proc.go:267
+2024-04-29T14:22:14.851+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-04-29T14:24:50.760+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-04-29T19:59:27.801+0800	WARN	initialize/initialize.go:105	服务已注册
+zg5/work/work07/server/initialize.Consul
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:105
+zg5/work/work07/server/initialize.InitGrpc
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:123
+main.main
+	D:/GO/src/zg5/work/work07/server/main.go:6
+runtime.main
+	D:/goroot/src/runtime/proc.go:267
+2024-04-29T19:59:27.826+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-04-29T20:01:26.320+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-05-07T12:29:59.853+0800	WARN	initialize/initialize.go:105	服务已注册
+zg5/work/work07/server/initialize.Consul
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:105
+zg5/work/work07/server/initialize.InitGrpc
+	D:/GO/src/zg5/work/work07/server/initialize/initialize.go:123
+main.main
+	D:/GO/src/zg5/work/work07/server/main.go:6
+runtime.main
+	D:/goroot/src/runtime/proc.go:267
+2024-05-07T12:29:59.868+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-05-07T12:32:57.286+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-05-07T12:43:42.408+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080
+2024-05-07T13:58:18.914+0800	INFO	initialize/initialize.go:128	已启动rpc服务正在监听中...127.0.0.1:8080

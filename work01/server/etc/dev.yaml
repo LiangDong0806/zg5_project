@@ -1,0 +1,5 @@
+  Host: "127.0.0.1"
+  Port: 8848
+  DataId: "user_rpc"
+  Group: "dev"
+  NamespaceId: "a1c41078-2b72-4737-8cd6-127f2677c082"

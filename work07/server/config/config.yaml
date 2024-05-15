@@ -1,0 +1,5 @@
+  Host: "119.3.125.7"
+  Port: 8848
+  DataId: "user_rpc"
+  Group: "DEFAULT_GROUP"
+  NamespaceId: "13f6307a-b694-4b13-b0c6-152ea9cc929e"

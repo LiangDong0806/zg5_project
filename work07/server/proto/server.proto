@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package server;
+option go_package="./server";
+
+message UserRegRequest {
+  string Username = 1;
+  string Password = 2;
+}
+
+
+message Response {
+  int64 Code =2;
+  string Msg = 1;
+}
+
+service Server {
+  rpc UserReg(UserRegRequest) returns(Response);
+}

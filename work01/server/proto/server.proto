@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package server;
+option go_package=".;server";
+
+message UserRegRequest {
+  string Username = 1;
+ string Password = 2;
+}
+
+message CreateOrderRequest {
+  int64 OrderId = 1;
+  string OrderName = 2;
+  string OrderPhone = 3;
+  int64 OrderNum = 4;
+  string OrderStatus = 5;
+}
+
+message Response {
+  int64 Code =2;
+string Msg = 1;
+}
+
+service Server {
+  rpc UserReg(UserRegRequest) returns(Response);
+  rpc CreateCustomer(CreateOrderRequest) returns(Response);
+}

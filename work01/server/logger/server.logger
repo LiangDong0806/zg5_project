@@ -1,0 +1,12 @@
+2024-04-26T19:41:02.617+0800	INFO	initialize/initialize.go:96	&{user_rpc  [user server]} &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:04:11.788+0800	INFO	initialize/initialize.go:96	<nil> &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:05:29.801+0800	INFO	initialize/initialize.go:96	<nil> &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:13:55.449+0800	INFO	initialize/initialize.go:96	<nil> &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:15:25.214+0800	INFO	initialize/initialize.go:96	<nil> &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:18:31.844+0800	INFO	initialize/initialize.go:96	<nil> &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:20:26.949+0800	INFO	initialize/initialize.go:96	&{user_rpc  [user server]} &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:20:27.331+0800	INFO	initialize/initialize.go:153	保姆究极状态下已启动...
+2024-04-27T11:20:49.516+0800	INFO	initialize/initialize.go:96	&{user_rpc  [user server]} &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T11:20:49.609+0800	INFO	initialize/initialize.go:152	保姆究极状态下已启动...
+2024-04-27T20:32:24.146+0800	INFO	initialize/initialize.go:96	&{user_rpc  [user server]} &{root 123456 127.0.0.1 3307 work}11111111111111111111111
+2024-04-27T20:32:24.920+0800	INFO	initialize/initialize.go:152	保姆究极状态下已启动...
